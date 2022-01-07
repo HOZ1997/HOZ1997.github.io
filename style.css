@@ -1,0 +1,41 @@
+body {
+background-color:  darkgrey;
+font-family: Arial, Helvetica, sans-serif;
+margin: 5% 20%;
+}
+
+h1 {
+color: black;
+font-family: Comic-sans;
+font-size: 30px;
+text-align: center;
+}
+h3 {color: white;}
+p {font-size: 14px;}
+
+
+.headers {
+text-align: center;
+text-transform: uppercase;
+
+}
+
+.bulletpoints {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px
+}
+
+.jobrole {
+padding: 1px 5px .5px .5px;
+border: 3px solid grey;
+padding-left: 10px;
+font-family: Arial, Helvetica sans-serif;
+font-size: 17px
+text-align: center; 
+}
+
+.ed{
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 14px
+}
+
